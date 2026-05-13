@@ -1,0 +1,124 @@
+---
+title: "Science Café"
+page-layout: full
+toc: false
+---
+
+<div class="sc-section-teal">
+  <p class="sc-eyebrow" style="color:rgba(255,255,255,0.75)">Monthly in-person event</p>
+  <h1 style="font-size:clamp(28px,4vw,44px);font-weight:600;margin-bottom:12px;">Science Café</h1>
+  <p style="font-size:17px;opacity:0.88;max-width:520px;margin:0 auto;line-height:1.65;">A space where curious people come together to talk about science. No lectures, no slides — just a great topic and a room full of people who want to understand the world better.</p>
+</div>
+
+<!-- Next event -->
+<section class="sc-section">
+  <div class="sc-inner">
+    <div class="sc-label">Next event</div>
+    <div class="sc-cafe-card" style="max-width:700px;">
+      <div class="sc-cafe-date">
+        <div class="sc-cafe-month">Jun</div>
+        <div class="sc-cafe-day">11</div>
+      </div>
+      <div>
+        <div class="sc-cafe-title">Is AI making us worse at thinking?</div>
+        <div class="sc-cafe-detail">📍 The Common Room, 14 Broad Street · 7:00–9:00 pm</div>
+        <div class="sc-cafe-detail">🎟 Free admission · All welcome</div>
+        <div class="sc-cafe-desc">From GPS eroding our sense of direction to autocomplete finishing our sentences, we've been offloading cognitive tasks to machines for decades. Come with your opinions, your doubts, and your questions.</div>
+        <a href="#rsvp" class="btn btn-teal">Reserve your seat →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- How it works -->
+<section class="sc-section-warm">
+  <div class="sc-inner" style="max-width:760px;">
+    <div class="sc-label">How it works</div>
+    <div class="sc-steps">
+      <div class="sc-step">
+        <div class="sc-step-num">1</div>
+        <div class="sc-step-text">
+          <strong>We pick a topic</strong>
+          Topics come from our community — science in the news, emerging research, or a big question someone's been mulling. Announced two weeks before each event.
+        </div>
+      </div>
+      <div class="sc-step">
+        <div class="sc-step-num">2</div>
+        <div class="sc-step-text">
+          <strong>We gather and talk</strong>
+          Doors open at 6:30 pm, discussion starts at 7 pm. A facilitator guides the conversation — no experts, no panels, no wrong answers. Everyone participates.
+        </div>
+      </div>
+      <div class="sc-step">
+        <div class="sc-step-num">3</div>
+        <div class="sc-step-text">
+          <strong>We share a recap</strong>
+          After each event, a short summary goes on the blog. Some discussions become podcast episodes.
+        </div>
+      </div>
+      <div class="sc-step">
+        <div class="sc-step-num">4</div>
+        <div class="sc-step-text">
+          <strong>You suggest the next topic</strong>
+          At the end of every Café, we vote on future topics. Your idea might be next.
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- RSVP -->
+<section class="sc-section" id="rsvp">
+  <div class="sc-inner-form">
+    <div class="sc-label">Reserve your seat</div>
+    <p style="font-size:15px;color:var(--ink-muted);margin-bottom:24px;">Free to attend — we just ask you to RSVP so we can plan seating and refreshments.</p>
+    <div class="sc-form">
+      <div>
+        <label class="sc-label-text">Full name</label>
+        <input type="text" class="sc-input" placeholder="Your name">
+      </div>
+      <div>
+        <label class="sc-label-text">Email address</label>
+        <input type="email" class="sc-input" placeholder="you@example.com">
+      </div>
+      <div>
+        <label class="sc-label-text">How did you hear about us?</label>
+        <select class="sc-input">
+          <option value="">Select an option</option>
+          <option>Friend or colleague</option>
+          <option>Social media</option>
+          <option>The blog or podcast</option>
+          <option>Flyer or poster</option>
+          <option>Other</option>
+        </select>
+      </div>
+      <label style="display:flex;align-items:center;gap:10px;font-size:14px;color:var(--ink-muted);cursor:pointer;">
+        <input type="checkbox" style="width:16px;height:16px;accent-color:var(--teal);">
+        Add me to the mailing list for future events
+      </label>
+      <button onclick="document.getElementById('rsvp-confirm').style.display='block'" class="btn btn-teal">Confirm RSVP →</button>
+      <p id="rsvp-confirm" class="sc-confirm">✓ You're on the list! We'll send a reminder the day before.</p>
+    </div>
+  </div>
+</section>
+
+<!-- Past topics -->
+<section class="sc-section-warm">
+  <div class="sc-inner" style="max-width:700px;">
+    <div class="sc-label">Past discussions</div>
+    <ul class="sc-past-list">
+      <li><strong>May 2025</strong> — Should scientists be activists? The case for and against advocacy</li>
+      <li><strong>Apr 2025</strong> — What does "natural" even mean? A scientific and philosophical deep-dive</li>
+      <li><strong>Mar 2025</strong> — The future of food: insects, lab meat, and vertical farming</li>
+      <li><strong>Feb 2025</strong> — Consciousness: do animals experience it, and how would we know?</li>
+      <li><strong>Jan 2025</strong> — Gene editing: who decides what counts as a disease?</li>
+      <li><strong>Dec 2024</strong> — Is the universe finite — and does it matter if it is?</li>
+    </ul>
+  </div>
+</section>
+
+<section class="sc-about-strip">
+  <h2>Want to suggest a topic?</h2>
+  <p>Great Science Café topics are ones where reasonable people disagree, science is illuminating, and curiosity is contagious.</p>
+  <a href="../about/index.qmd#contact" class="btn btn-outline">Send your idea →</a>
+</section>

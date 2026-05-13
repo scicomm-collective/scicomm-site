@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>SciComm Collective</title>
+<link>https://scicomm-collective.github.io/scicomm-site/posts/posts_index.html</link>
+<atom:link href="https://scicomm-collective.github.io/scicomm-site/posts/posts_index.xml" rel="self" type="application/rss+xml"/>
+<description>Science storytelling for everyone — blog, podcast, workshops, and monthly Science Café discussions.</description>
+<generator>quarto-1.6.40</generator>
+<lastBuildDate>Mon, 28 Apr 2025 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Why ants are better engineers than us</title>
+  <dc:creator>Rosa Vargas</dc:creator>
+  <link>https://scicomm-collective.github.io/scicomm-site/posts/2025-04-28-ants-engineers/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Deep in the rainforests of Central America, beneath mounds that can stretch six metres underground, leafcutter ant colonies are solving engineering problems that have stumped human architects for decades.</p>
+<p>These colonies — some housing up to eight million individuals — maintain an almost constant internal temperature of 25°C, regardless of what the jungle outside is doing. They manage humidity to within a few percentage points. They circulate fresh air through a network of tunnels without a single fan or ventilation system. They’ve been doing this for 45 million years.</p>
+<section id="the-tunnel-network" class="level2">
+<h2 class="anchored" data-anchor-id="the-tunnel-network">The tunnel network</h2>
+<p>The secret lies in the shape and arrangement of their tunnels. Researchers at the University of Campinas discovered that leafcutter ants construct their tunnels at specific angles and diameters that exploit natural convection — warm air rises, cool air sinks, and the geometry of the nest does the rest.</p>
+<p>When the fungus gardens at the colony’s centre produce metabolic heat, it rises through central shafts and escapes through dozens of exit holes near the mound’s surface. Meanwhile, cooler, fresh air is drawn in through lower entrances. The system requires no energy input from the ants themselves. It simply works.</p>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Key finding
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Leafcutter ant tunnels are oriented at precise angles that maximise passive airflow — a principle now being studied for application in low-energy building design.</p>
+</div>
+</div>
+<blockquote class="blockquote">
+<p>“They’ve solved a problem that costs human buildings enormous amounts of energy to manage, and they did it without any conscious engineering decisions.” — Dr.&nbsp;Tomer Czaczkes, University of Regensburg</p>
+</blockquote>
+</section>
+<section id="what-were-learning" class="level2">
+<h2 class="anchored" data-anchor-id="what-were-learning">What we’re learning</h2>
+<p>Engineers are paying attention. Biomimicry — the practice of drawing design inspiration from nature — has produced Velcro (from burdock burrs), wind turbine blades (from humpback whale fins), and building facades that self-clean (from the lotus leaf).</p>
+<p>Ant nest architecture may be the next frontier. Several research groups are now studying whether ant-inspired ventilation principles could reduce the energy consumption of office buildings, data centres, and underground infrastructure.</p>
+</section>
+<section id="the-engineers-who-dont-know-theyre-engineering" class="level2">
+<h2 class="anchored" data-anchor-id="the-engineers-who-dont-know-theyre-engineering">The engineers who don’t know they’re engineering</h2>
+<p>Perhaps the most remarkable thing about leafcutter ants is that no individual ant understands any of this. There is no architect, no foreman, no blueprint. Each ant follows simple local rules — deposit soil here, avoid tunnel diameters smaller than x — and the global result is sophisticated engineering.</p>
+<p>This is called <strong>stigmergy</strong>: coordination through the environment itself. Ants leave chemical signals in the soil that influence where the next ant digs. Over millions of interactions, these simple rules produce complex, functional structures.</p>
+<p>It’s a reminder that intelligence — or at least the appearance of it — doesn’t require a central controller. The colony thinks, even if no individual ant does.</p>
+<p>For human engineers, that’s both humbling and inspiring.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Climate &amp; Ecology</category>
+  <guid>https://scicomm-collective.github.io/scicomm-site/posts/2025-04-28-ants-engineers/</guid>
+  <pubDate>Mon, 28 Apr 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://scicomm-collective.github.io/scicomm-site/posts/2025-04-28-ants-engineers" medium="image"/>
+</item>
+<item>
+  <title>The science of why music gives us chills</title>
+  <dc:creator>James Tao</dc:creator>
+  <link>https://scicomm-collective.github.io/scicomm-site/posts/2025-04-14-music-chills/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>You know the feeling. A chord resolves in an unexpected way, a singer hits a note you weren’t ready for, and suddenly the hairs on your arms stand up. Your skin prickles. Your chest tightens, pleasurably.</p>
+<p>Scientists call it <strong>frisson</strong> (from the French for “shiver”). And understanding why it happens has revealed something profound about how the brain makes sense of music — and perhaps of beauty itself.</p>
+<section id="the-prediction-machine" class="level2">
+<h2 class="anchored" data-anchor-id="the-prediction-machine">The prediction machine</h2>
+<p>The brain, it turns out, is essentially a prediction machine. At every moment, it is building models of what is about to happen in the world and constantly comparing those predictions to what actually occurs.</p>
+<p>Music exploits this ruthlessly. A melody sets up expectations — patterns, rhythms, harmonic structures — and then plays with them. A chord that resolves differently than expected. A beat that lands a fraction late. A voice that soars higher than the melody seemed to be heading.</p>
+<p>When those violations of expectation are <em>pleasantly</em> surprising — when the brain’s prediction was wrong, but gloriously so — the result can be frisson.</p>
+</section>
+<section id="who-gets-it-and-who-doesnt" class="level2">
+<h2 class="anchored" data-anchor-id="who-gets-it-and-who-doesnt">Who gets it and who doesn’t</h2>
+<p>Not everyone experiences frisson. Research suggests roughly 55–65% of people report ever feeling it. A 2018 study from the University of Southern California found that people who frequently experience frisson have stronger connections between their auditory cortex and areas associated with emotional processing.</p>
+<p>In other words, in some brains, the pathways between “hearing music” and “feeling emotions” are more richly connected. Those people don’t just hear music — they’re wired to feel it more viscerally.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Try it yourself
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Pay attention to <em>where</em> the chills arrive in a piece of music you love. Research shows they most often occur at moments of harmonic surprise, dynamic contrast, or when a new voice or instrument enters unexpectedly.</p>
+</div>
+</div>
+</section>
+<section id="the-dopamine-connection" class="level2">
+<h2 class="anchored" data-anchor-id="the-dopamine-connection">The dopamine connection</h2>
+<p>Frisson is accompanied by a release of dopamine — the same neurotransmitter involved in pleasure, reward, and anticipation. Brain imaging studies show that the dopamine release begins <em>before</em> the musical climax — during the moment of anticipation — and peaks at the moment the payoff arrives.</p>
+<blockquote class="blockquote">
+<p>“Music is perhaps the only stimulus that reliably activates the reward system in a way that doesn’t involve any survival need.” — Robert Zatorre, McGill University</p>
+</blockquote>
+<p>The honest answer is that we don’t fully know why we evolved this response. But frisson is a window into that question — a moment when the machinery of the brain’s emotional response becomes briefly, thrillingly visible.</p>
+<p>Put on a song that always gets you. Notice the anticipation. Notice where the chills arrive. You’re watching your prediction engine fire.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Neuroscience</category>
+  <guid>https://scicomm-collective.github.io/scicomm-site/posts/2025-04-14-music-chills/</guid>
+  <pubDate>Mon, 14 Apr 2025 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Talking to the public about uncertain science</title>
+  <dc:creator>Maya Patel</dc:creator>
+  <link>https://scicomm-collective.github.io/scicomm-site/posts/2025-04-02-uncertain-science/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Science is, by its nature, uncertain. Results are provisional. Findings need replication. Confidence intervals are ranges, not points. Every paper comes with caveats.</p>
+<p>The public, and often the media, wants certainty. “Scientists discover…” “New research proves…” “Study shows…”</p>
+<p>Bridging that gap — communicating genuine scientific uncertainty without either frightening people or being dismissed as wishy-washy — is one of the hardest skills in science communication.</p>
+<section id="the-instinct-to-oversimplify-is-understandable" class="level2">
+<h2 class="anchored" data-anchor-id="the-instinct-to-oversimplify-is-understandable">The instinct to oversimplify is understandable</h2>
+<p>When you’ve spent three years on a study that found a modest correlation between gut bacteria and anxiety in a sample of 200 people, you want people to care. The temptation to say “scientists discover gut bacteria causes anxiety” is real, even if you know that’s not what your data shows.</p>
+<p>The problem isn’t dishonesty. It’s the gap between how scientists talk among themselves (hedged, conditional, probabilistic) and how everyone else talks (concrete, causal, decisive).</p>
+</section>
+<section id="uncertainty-isnt-the-same-as-ignorance" class="level2">
+<h2 class="anchored" data-anchor-id="uncertainty-isnt-the-same-as-ignorance">Uncertainty isn’t the same as ignorance</h2>
+<p>The first thing I tell scientists preparing to speak publicly is to distinguish between two kinds of uncertainty:</p>
+<ul>
+<li><strong>We don’t know</strong> — honest about gaps in the evidence</li>
+<li><strong>We know it’s complicated</strong> — actually informative, showing science is doing the hard work</li>
+</ul>
+<p>Framing uncertainty as complexity rather than ignorance shifts the tone from “science is unreliable” to “science is doing the hard work of understanding a complicated world.”</p>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+The golden rule
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Never bury caveats in the last paragraph. Audiences who discover them later feel misled — and trust, once broken, is very hard to rebuild.</p>
+</div>
+</div>
+</section>
+<section id="the-honest-middle" class="level2">
+<h2 class="anchored" data-anchor-id="the-honest-middle">The honest middle</h2>
+<p>The honest middle sounds something like this:</p>
+<blockquote class="blockquote">
+<p>“We found X. This is a first step — the finding needs to be replicated and we don’t yet know the mechanism. But it points in an interesting direction that’s worth pursuing.”</p>
+</blockquote>
+<p>That’s it. State what you found, contextualise how preliminary it is, and say why it matters enough to share.</p>
+<p>Most audiences can handle nuance. What they can’t handle — and what erodes trust in science — is finding out later that they were told a cleaner version of the truth than the truth deserved.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>SciComm Craft</category>
+  <guid>https://scicomm-collective.github.io/scicomm-site/posts/2025-04-02-uncertain-science/</guid>
+  <pubDate>Wed, 02 Apr 2025 04:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

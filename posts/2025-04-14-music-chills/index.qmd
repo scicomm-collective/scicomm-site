@@ -1,0 +1,42 @@
+---
+title: "The science of why music gives us chills"
+description: "Frisson — that shivery feeling when a song hits just right — turns out to be a window into how our brains predict and respond to beauty."
+author: "James Tao"
+date: "2025-04-14"
+categories: [Neuroscience]
+reading-time: true
+toc: true
+---
+
+You know the feeling. A chord resolves in an unexpected way, a singer hits a note you weren't ready for, and suddenly the hairs on your arms stand up. Your skin prickles. Your chest tightens, pleasurably.
+
+Scientists call it **frisson** (from the French for "shiver"). And understanding why it happens has revealed something profound about how the brain makes sense of music — and perhaps of beauty itself.
+
+## The prediction machine
+
+The brain, it turns out, is essentially a prediction machine. At every moment, it is building models of what is about to happen in the world and constantly comparing those predictions to what actually occurs.
+
+Music exploits this ruthlessly. A melody sets up expectations — patterns, rhythms, harmonic structures — and then plays with them. A chord that resolves differently than expected. A beat that lands a fraction late. A voice that soars higher than the melody seemed to be heading.
+
+When those violations of expectation are *pleasantly* surprising — when the brain's prediction was wrong, but gloriously so — the result can be frisson.
+
+## Who gets it and who doesn't
+
+Not everyone experiences frisson. Research suggests roughly 55–65% of people report ever feeling it. A 2018 study from the University of Southern California found that people who frequently experience frisson have stronger connections between their auditory cortex and areas associated with emotional processing.
+
+In other words, in some brains, the pathways between "hearing music" and "feeling emotions" are more richly connected. Those people don't just hear music — they're wired to feel it more viscerally.
+
+::: {.callout-tip}
+## Try it yourself
+Pay attention to *where* the chills arrive in a piece of music you love. Research shows they most often occur at moments of harmonic surprise, dynamic contrast, or when a new voice or instrument enters unexpectedly.
+:::
+
+## The dopamine connection
+
+Frisson is accompanied by a release of dopamine — the same neurotransmitter involved in pleasure, reward, and anticipation. Brain imaging studies show that the dopamine release begins *before* the musical climax — during the moment of anticipation — and peaks at the moment the payoff arrives.
+
+> "Music is perhaps the only stimulus that reliably activates the reward system in a way that doesn't involve any survival need." — Robert Zatorre, McGill University
+
+The honest answer is that we don't fully know why we evolved this response. But frisson is a window into that question — a moment when the machinery of the brain's emotional response becomes briefly, thrillingly visible.
+
+Put on a song that always gets you. Notice the anticipation. Notice where the chills arrive. You're watching your prediction engine fire.

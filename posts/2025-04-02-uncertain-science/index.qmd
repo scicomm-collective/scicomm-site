@@ -1,0 +1,45 @@
+---
+title: "Talking to the public about uncertain science"
+description: "When findings are preliminary, how do you share them honestly without either overstating or burying the news?"
+author: "Maya Patel"
+date: "2025-04-02"
+categories: [SciComm Craft]
+reading-time: true
+toc: true
+---
+
+Science is, by its nature, uncertain. Results are provisional. Findings need replication. Confidence intervals are ranges, not points. Every paper comes with caveats.
+
+The public, and often the media, wants certainty. "Scientists discover..." "New research proves..." "Study shows..."
+
+Bridging that gap — communicating genuine scientific uncertainty without either frightening people or being dismissed as wishy-washy — is one of the hardest skills in science communication.
+
+## The instinct to oversimplify is understandable
+
+When you've spent three years on a study that found a modest correlation between gut bacteria and anxiety in a sample of 200 people, you want people to care. The temptation to say "scientists discover gut bacteria causes anxiety" is real, even if you know that's not what your data shows.
+
+The problem isn't dishonesty. It's the gap between how scientists talk among themselves (hedged, conditional, probabilistic) and how everyone else talks (concrete, causal, decisive).
+
+## Uncertainty isn't the same as ignorance
+
+The first thing I tell scientists preparing to speak publicly is to distinguish between two kinds of uncertainty:
+
+- **We don't know** — honest about gaps in the evidence
+- **We know it's complicated** — actually informative, showing science is doing the hard work
+
+Framing uncertainty as complexity rather than ignorance shifts the tone from "science is unreliable" to "science is doing the hard work of understanding a complicated world."
+
+::: {.callout-important}
+## The golden rule
+Never bury caveats in the last paragraph. Audiences who discover them later feel misled — and trust, once broken, is very hard to rebuild.
+:::
+
+## The honest middle
+
+The honest middle sounds something like this:
+
+> "We found X. This is a first step — the finding needs to be replicated and we don't yet know the mechanism. But it points in an interesting direction that's worth pursuing."
+
+That's it. State what you found, contextualise how preliminary it is, and say why it matters enough to share.
+
+Most audiences can handle nuance. What they can't handle — and what erodes trust in science — is finding out later that they were told a cleaner version of the truth than the truth deserved.

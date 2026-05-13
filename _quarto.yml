@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: _site
+  output-dir: docs
 
 website:
   title: "SciComm Collective"
@@ -12,13 +12,13 @@ website:
   navbar:
     left:
       - text: "Blog"
-        href: posts/index.qmd
+        href: posts/posts_index.qmd
       - text: "Podcast"
-        href: podcast/index.qmd
+        href: podcast/podcasr_index.qmd
       - text: "Workshops"
-        href: workshops/index.qmd
+        href: workshops/workshops_index.qmd
       - text: "Science Café"
-        href: cafe/index.qmd
+        href: cafe/cafe_index.qmd
       - text: "About"
         href: about/index.qmd
     right:
