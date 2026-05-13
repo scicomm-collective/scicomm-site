@@ -1,0 +1,68 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "SciComm Collective"
+  description: "Science storytelling for everyone — blog, podcast, workshops, and monthly Science Café discussions."
+  favicon: "assets/images/favicon.svg"
+  site-url: "https://your-username.github.io/scicomm-collective"
+
+  # ── Navigation bar ──
+  navbar:
+    left:
+      - text: "Blog"
+        href: posts/index.qmd
+      - text: "Podcast"
+        href: podcast/index.qmd
+      - text: "Workshops"
+        href: workshops/index.qmd
+      - text: "Science Café"
+        href: cafe/index.qmd
+      - text: "About"
+        href: about/index.qmd
+    right:
+      - text: "Join us"
+        href: cafe/index.qmd#rsvp
+        aria-label: "Join us"
+
+  # ── Footer ──
+  page-footer:
+    left: "© 2025 SciComm Collective"
+    center:
+      - text: "Blog"
+        href: posts/index.qmd
+      - text: "Podcast"
+        href: podcast/index.qmd
+      - text: "Workshops"
+        href: workshops/index.qmd
+      - text: "Science Café"
+        href: cafe/index.qmd
+      - text: "About"
+        href: about/index.qmd
+    right: "Built with [Quarto](https://quarto.org) · Hosted on [GitHub Pages](https://pages.github.com)"
+
+  # ── Sidebar (disabled globally; blog uses its own) ──
+  sidebar: false
+
+  # ── Open Graph / social sharing ──
+  open-graph: true
+  twitter-card: true
+
+# ── Format defaults ──
+format:
+  html:
+    theme:
+      - cosmo
+      - assets/css/custom.scss
+    css: assets/css/main.css
+    toc: false
+    page-layout: full
+    grid:
+      sidebar-width: 0px
+      body-width: 1200px
+      margin-width: 0px
+
+# ── Blog / listings defaults ──
+execute:
+  freeze: auto
