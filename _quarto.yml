@@ -6,7 +6,7 @@ website:
   title: "SciComm Collective"
   description: "Science storytelling for everyone — blog, podcast, workshops, and monthly Science Café discussions."
   favicon: "assets/images/favicon.svg"
-  site-url: "https://your-username.github.io/scicomm-collective"
+  site-url: "https://scicomm-collective.github.io/scicomm-site"
 
   # ── Navigation bar ──
   navbar:
