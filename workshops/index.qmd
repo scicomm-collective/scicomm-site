@@ -1,0 +1,98 @@
+---
+title: "Workshops & Training"
+page-layout: full
+toc: false
+---
+
+<div class="sc-page-hero">
+  <p class="sc-eyebrow">Learn &amp; create</p>
+  <h1>Workshops &amp; training</h1>
+  <p>Practical, hands-on skills for scientists and science communicators — from writing your first op-ed to producing a short film.</p>
+</div>
+
+<div class="sc-section">
+  <div class="sc-inner">
+    <div class="sc-label">Upcoming workshops</div>
+    <div class="sc-workshop-grid">
+
+      <a href="writing-beginners.qmd" class="sc-workshop-card">
+        <div class="sc-workshop-banner" style="background:var(--teal);"></div>
+        <div class="sc-workshop-body">
+          <div class="sc-workshop-type">Writing</div>
+          <div class="sc-workshop-title">Science Writing for Beginners</div>
+          <div class="sc-workshop-desc">Transform dense research into engaging stories. Covers structure, finding your angle, and pitching to publications.</div>
+          <div class="sc-workshop-meta">
+            <span>📅 Jun 14</span><span>🕐 2 hrs</span><span>🆓 Free</span>
+          </div>
+        </div>
+      </a>
+
+      <a href="explainer-videos.qmd" class="sc-workshop-card">
+        <div class="sc-workshop-banner" style="background:var(--purple);"></div>
+        <div class="sc-workshop-body">
+          <div class="sc-workshop-type">Video</div>
+          <div class="sc-workshop-title">Making Explainer Videos on a Budget</div>
+          <div class="sc-workshop-desc">Script, shoot, and edit a 3-minute science explainer using only your phone and free editing tools.</div>
+          <div class="sc-workshop-meta">
+            <span>📅 Jun 21</span><span>🕐 3 hrs</span><span>💷 £10</span>
+          </div>
+        </div>
+      </a>
+
+      <a href="public-speaking.qmd" class="sc-workshop-card">
+        <div class="sc-workshop-banner" style="background:var(--blue);"></div>
+        <div class="sc-workshop-body">
+          <div class="sc-workshop-type">Public Speaking</div>
+          <div class="sc-workshop-title">Talking Science: From Lab to Stage</div>
+          <div class="sc-workshop-desc">Practice explaining your research to non-expert audiences with filmed feedback from experienced communicators.</div>
+          <div class="sc-workshop-meta">
+            <span>📅 Jul 5</span><span>🕐 2.5 hrs</span><span>🆓 Free</span>
+          </div>
+        </div>
+      </a>
+
+      <a href="podcast-workshop.qmd" class="sc-workshop-card">
+        <div class="sc-workshop-banner" style="background:#B97A17;"></div>
+        <div class="sc-workshop-body">
+          <div class="sc-workshop-type">Audio</div>
+          <div class="sc-workshop-title">Starting a Science Podcast</div>
+          <div class="sc-workshop-desc">From concept to first episode. Covers formats, interview technique, basic audio recording, and audience building.</div>
+          <div class="sc-workshop-meta">
+            <span>📅 Jul 19</span><span>🕐 3 hrs</span><span>💷 £15</span>
+          </div>
+        </div>
+      </a>
+
+      <a href="social-media.qmd" class="sc-workshop-card">
+        <div class="sc-workshop-banner" style="background:#D85A30;"></div>
+        <div class="sc-workshop-body">
+          <div class="sc-workshop-type">Social Media</div>
+          <div class="sc-workshop-title">Science Communication on Social Media</div>
+          <div class="sc-workshop-desc">Reach new audiences without dumbing things down. Thread-writing, short video formats, and building your reputation.</div>
+          <div class="sc-workshop-meta">
+            <span>📅 Aug 2</span><span>🕐 2 hrs</span><span>🆓 Free</span>
+          </div>
+        </div>
+      </a>
+
+      <a href="data-viz.qmd" class="sc-workshop-card">
+        <div class="sc-workshop-banner" style="background:var(--teal);"></div>
+        <div class="sc-workshop-body">
+          <div class="sc-workshop-type">Data Visualisation</div>
+          <div class="sc-workshop-title">Visualising Science for the Public</div>
+          <div class="sc-workshop-desc">Turn complex datasets into clear, honest, beautiful graphics using free tools like Datawrapper and Flourish.</div>
+          <div class="sc-workshop-meta">
+            <span>📅 Aug 16</span><span>🕐 2.5 hrs</span><span>💷 £10</span>
+          </div>
+        </div>
+      </a>
+
+    </div>
+  </div>
+</div>
+
+<section class="sc-about-strip">
+  <h2>Want to teach a workshop?</h2>
+  <p>Have expertise in science communication, writing, media, or a related field? We'd love to host you.</p>
+  <a href="../about/index.qmd#contact" class="btn btn-outline">Propose a workshop →</a>
+</section>

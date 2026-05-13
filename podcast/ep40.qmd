@@ -1,0 +1,28 @@
+---
+title: "The ethics of science communication in a polarised world"
+page-layout: article
+toc: false
+---
+
+<div class="sc-page-hero">
+  <p class="sc-eyebrow">Episode 40 · Apr 7, 2025</p>
+  <h1>The ethics of science communication in a polarised world</h1>
+  <div style="display:flex;gap:14px;margin-top:16px;flex-wrap:wrap;font-size:13px;color:var(--ink-faint);">
+    <span>⏱ 44 min</span><span>🎙 Amir Khan, Sara Lindqvist</span>
+  </div>
+  <div style="display:flex;gap:10px;margin-top:20px;">
+    <a href="#" class="btn btn-dark">🎙 Listen on Spotify</a>
+    <a href="#" class="btn btn-outline">Apple Podcasts</a>
+  </div>
+</div>
+
+<div style="max-width:700px;margin:0 auto;padding:0 40px 60px;">
+
+When the public is divided along political lines, how do communicators share inconvenient truths without triggering defensive reactions? A nuanced look at the psychology of persuasion and what the evidence says about changing minds.
+
+</div>
+
+<section class="sc-about-strip">
+  <h2>More episodes</h2>
+  <a href="index.qmd" class="btn btn-outline">All episodes →</a>
+</section>

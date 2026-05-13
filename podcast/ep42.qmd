@@ -1,0 +1,44 @@
+---
+title: "Can science journalism survive the attention economy?"
+page-layout: article
+toc: false
+---
+
+<div class="sc-page-hero">
+  <p class="sc-eyebrow">Episode 42 · May 5, 2025</p>
+  <h1>Can science journalism survive the attention economy?</h1>
+  <div style="display:flex;gap:14px;margin-top:16px;flex-wrap:wrap;font-size:13px;color:var(--ink-faint);">
+    <span>⏱ 38 min</span>
+    <span>🎙 Rosa Vargas, James Tao</span>
+  </div>
+  <div style="display:flex;gap:10px;margin-top:20px;flex-wrap:wrap;">
+    <a href="#" class="btn btn-dark">🎙 Listen on Spotify</a>
+    <a href="#" class="btn btn-outline">Apple Podcasts</a>
+  </div>
+</div>
+
+<div style="max-width:700px;margin:0 auto;padding:0 40px 60px;">
+
+With the collapse of traditional print advertising and the rise of social-media-driven traffic, science journalists face a stark dilemma: write for accuracy and depth, or write for clicks.
+
+In this episode, we talk to three working science journalists about the daily pressures they navigate, the editorial decisions that keep them up at night, and the small acts of resistance that keep rigorous science journalism alive — even when the algorithms would prefer otherwise.
+
+## Topics covered
+
+- How headlines get written (and who actually writes them)
+- The difference between "scientists discover" and what scientists actually found  
+- Whether newsletters are a genuine alternative to institutional journalism
+- Why some of the best science journalism is happening in unexpected places
+
+## Show notes & links
+
+- [Reuters Institute for the Study of Journalism](https://reutersinstitute.politics.ox.ac.uk/)
+- [Science journalism resources — World Federation of Science Journalists](https://www.wfsj.org/)
+
+</div>
+
+<section class="sc-about-strip">
+  <h2>More episodes</h2>
+  <p>The Curious Lab publishes new episodes every other week.</p>
+  <a href="index.qmd" class="btn btn-outline">All episodes →</a>
+</section>

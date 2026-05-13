@@ -1,0 +1,147 @@
+---
+title: "About"
+page-layout: full
+toc: false
+---
+
+<div class="sc-page-hero" style="max-width:760px;">
+  <p class="sc-eyebrow">About us</p>
+  <h1>Science belongs to everyone</h1>
+  <p>We're a community of researchers, writers, educators, and curious minds working to close the gap between the lab and the living room. Founded in 2021, SciComm Collective runs a blog, a podcast, monthly in-person events, and training workshops — all centred on the belief that good science communication makes society smarter and more resilient.</p>
+</div>
+
+<!-- Values -->
+<section class="sc-section-warm">
+  <div class="sc-inner">
+    <div class="sc-label">What we believe</div>
+    <div class="sc-values-grid">
+      <div class="sc-value-card">
+        <div class="sc-value-icon">🔬</div>
+        <div class="sc-value-title">Accuracy over virality</div>
+        <div class="sc-value-desc">We never sacrifice scientific accuracy for a more exciting headline. When findings are uncertain, we say so.</div>
+      </div>
+      <div class="sc-value-card">
+        <div class="sc-value-icon">🗣️</div>
+        <div class="sc-value-title">Dialogue, not broadcast</div>
+        <div class="sc-value-desc">Science communication works best as a conversation. We create spaces where the public shapes the agenda too.</div>
+      </div>
+      <div class="sc-value-card">
+        <div class="sc-value-icon">🌍</div>
+        <div class="sc-value-title">Inclusion and access</div>
+        <div class="sc-value-desc">Most of our events and content are free. We work to platform voices underrepresented in science media.</div>
+      </div>
+      <div class="sc-value-card">
+        <div class="sc-value-icon">✨</div>
+        <div class="sc-value-title">Craft matters</div>
+        <div class="sc-value-desc">Good science communication is good writing, good storytelling, good listening. We take the craft seriously.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Team -->
+<section class="sc-section">
+  <div class="sc-inner">
+    <div class="sc-label">The team</div>
+    <div class="sc-team-grid">
+      <div class="sc-team-card">
+        <div class="sc-team-avatar" style="background:#1D9E75;">MP</div>
+        <div class="sc-team-name">Maya Patel</div>
+        <div class="sc-team-role">Co-founder & Editor</div>
+        <div class="sc-team-bio">Former science journalist, now teaching researchers how to tell their own stories.</div>
+      </div>
+      <div class="sc-team-card">
+        <div class="sc-team-avatar" style="background:#185FA5;">JT</div>
+        <div class="sc-team-name">James Tao</div>
+        <div class="sc-team-role">Co-founder & Podcast Host</div>
+        <div class="sc-team-bio">Neuroscience PhD, part-time podcaster, full-time enthusiast about how brains work.</div>
+      </div>
+      <div class="sc-team-card">
+        <div class="sc-team-avatar" style="background:#534AB7;">RV</div>
+        <div class="sc-team-name">Rosa Vargas</div>
+        <div class="sc-team-role">Blog Editor</div>
+        <div class="sc-team-bio">Conservation biologist and writer. Specialises in ecology, climate, and stories from fieldwork.</div>
+      </div>
+      <div class="sc-team-card">
+        <div class="sc-team-avatar" style="background:#B97A17;">SL</div>
+        <div class="sc-team-name">Sara Lindqvist</div>
+        <div class="sc-team-role">Workshop Coordinator</div>
+        <div class="sc-team-bio">Science communicator and trainer with 10 years of experience running public engagement programmes.</div>
+      </div>
+      <div class="sc-team-card">
+        <div class="sc-team-avatar" style="background:#D85A30;">AK</div>
+        <div class="sc-team-name">Amir Khan</div>
+        <div class="sc-team-role">Video & Social Media</div>
+        <div class="sc-team-bio">Filmmaker and AI researcher who makes short science explainers that actually get watched.</div>
+      </div>
+      <div class="sc-team-card">
+        <div class="sc-team-avatar" style="background:#0F6E56;">DC</div>
+        <div class="sc-team-name">Diana Chen</div>
+        <div class="sc-team-role">Science Café Facilitator</div>
+        <div class="sc-team-bio">Marine biologist who runs our monthly discussions with an extraordinary ability to draw out quiet voices.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Get involved -->
+<section class="sc-section-warm" id="contribute">
+  <div class="sc-inner" style="max-width:760px;">
+    <div class="sc-label">Get involved</div>
+    <div class="sc-what-grid">
+      <div class="sc-what-card">
+        <div class="sc-what-icon">✍️</div>
+        <div class="sc-what-title">Write for the blog</div>
+        <div class="sc-what-desc">Have a story to tell? We accept pitches from scientists, writers, and enthusiasts at all levels. First-time writers welcome.</div>
+        <span class="sc-tag tag-teal">Pitch a story</span>
+      </div>
+      <div class="sc-what-card">
+        <div class="sc-what-icon">🎙️</div>
+        <div class="sc-what-title">Appear on the podcast</div>
+        <div class="sc-what-desc">Know a fascinating researcher or communicator? Suggest them for the show — or suggest yourself.</div>
+        <span class="sc-tag tag-blue">Suggest a guest</span>
+      </div>
+      <div class="sc-what-card">
+        <div class="sc-what-icon">🧪</div>
+        <div class="sc-what-title">Run a workshop</div>
+        <div class="sc-what-desc">Have expertise to share? We'd love to host you. Workshops can be free or ticketed — you set the terms.</div>
+        <span class="sc-tag tag-amber">Propose a workshop</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Contact -->
+<section class="sc-section" id="contact">
+  <div class="sc-inner-form">
+    <div class="sc-label">Get in touch</div>
+    <p style="font-size:15px;color:var(--ink-muted);margin-bottom:24px;">Story pitch, workshop proposal, or just a hello — we read everything.</p>
+    <div class="sc-form">
+      <div>
+        <label class="sc-label-text">Name</label>
+        <input type="text" class="sc-input" placeholder="Your name">
+      </div>
+      <div>
+        <label class="sc-label-text">Email</label>
+        <input type="email" class="sc-input" placeholder="you@example.com">
+      </div>
+      <div>
+        <label class="sc-label-text">What's on your mind?</label>
+        <select class="sc-input">
+          <option value="">Select a topic</option>
+          <option>Blog pitch</option>
+          <option>Podcast guest suggestion</option>
+          <option>Workshop proposal</option>
+          <option>Science Café topic idea</option>
+          <option>General enquiry</option>
+        </select>
+      </div>
+      <div>
+        <label class="sc-label-text">Message</label>
+        <textarea class="sc-input" placeholder="Tell us more..." rows="4" style="resize:vertical;"></textarea>
+      </div>
+      <button onclick="document.getElementById('contact-confirm').style.display='block'" class="btn btn-teal">Send message →</button>
+      <p id="contact-confirm" class="sc-confirm">✓ Message received! We'll get back to you within a few days.</p>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,39 @@
+---
+title: "How a marine biologist learned to write for everyone"
+page-layout: article
+toc: false
+---
+
+<div class="sc-page-hero">
+  <p class="sc-eyebrow">Episode 41 · Apr 21, 2025</p>
+  <h1>How a marine biologist learned to write for everyone</h1>
+  <div style="display:flex;gap:14px;margin-top:16px;flex-wrap:wrap;font-size:13px;color:var(--ink-faint);">
+    <span>⏱ 52 min</span><span>🎙 Diana Chen, Maya Patel</span>
+  </div>
+  <div style="display:flex;gap:10px;margin-top:20px;">
+    <a href="#" class="btn btn-dark">🎙 Listen on Spotify</a>
+    <a href="#" class="btn btn-outline">Apple Podcasts</a>
+  </div>
+</div>
+
+<div style="max-width:700px;margin:0 auto;padding:0 40px 60px;">
+
+Dr. Diana Chen studies coral resilience in warming oceans. Her papers are impeccably written — for an audience of roughly 400 other specialists worldwide.
+
+When she tried to explain her work to her parents at a family dinner in 2019 and watched their eyes glaze over, she realised that the most important science she was doing might never reach the people it mattered to most.
+
+This is the story of how she learned to write differently — and what she lost and gained in the process.
+
+## Topics covered
+
+- The moment Diana realised academic writing wasn't enough
+- How to translate without dumbing down  
+- Finding your voice outside peer review
+- Why vulnerability in science writing builds, not undermines, credibility
+
+</div>
+
+<section class="sc-about-strip">
+  <h2>More episodes</h2>
+  <a href="index.qmd" class="btn btn-outline">All episodes →</a>
+</section>

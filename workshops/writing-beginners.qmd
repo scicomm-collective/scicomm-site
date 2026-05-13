@@ -1,0 +1,64 @@
+---
+title: "Science Writing for Beginners"
+page-layout: article
+toc: true
+---
+
+<div class="sc-page-hero">
+  <p class="sc-eyebrow">Writing · Jun 14, 2025 · Free</p>
+  <h1>Science Writing for Beginners</h1>
+  <p>Transform dense research into engaging stories. For scientists, researchers, and enthusiasts who want to write for non-specialist audiences.</p>
+  <div style="display:flex;gap:14px;flex-wrap:wrap;margin-top:20px;font-size:13px;color:var(--ink-faint);">
+    <span>📅 Jun 14, 2025</span>
+    <span>🕐 2 hours</span>
+    <span>🆓 Free</span>
+    <span>👥 20 places</span>
+    <span>📍 The Common Room</span>
+  </div>
+</div>
+
+<div style="max-width:700px;margin:0 auto;padding:0 40px 32px;">
+
+This workshop is for scientists, researchers, and science enthusiasts who want to write for non-specialist audiences but don't know where to start.
+
+## What we'll cover
+
+- How to find the human story inside a research paper
+- Structure: the inverted pyramid vs. narrative approaches
+- Writing the first sentence (the hardest part)
+- Plain language techniques that don't dumb things down
+- How to pitch your story to a publication or blog
+
+No writing experience necessary. Bring a piece of your own research or a paper you find interesting — we'll workshop it together.
+
+::: {.callout-note}
+## What to bring
+A research paper or topic you'd like to write about, and a laptop or notebook. Tea and coffee provided.
+:::
+
+**Facilitator:** Maya Patel, Co-founder & Editor
+
+</div>
+
+<section class="sc-section" style="background:var(--paper-warm);">
+  <div class="sc-inner-form">
+    <div class="sc-label">Register</div>
+    <p style="font-size:15px;color:var(--ink-muted);margin-bottom:24px;">Free to attend — register so we can confirm your place.</p>
+    <div class="sc-form">
+      <div>
+        <label class="sc-label-text">Full name</label>
+        <input type="text" class="sc-input" placeholder="Your name">
+      </div>
+      <div>
+        <label class="sc-label-text">Email address</label>
+        <input type="email" class="sc-input" placeholder="you@example.com">
+      </div>
+      <div>
+        <label class="sc-label-text">Tell us a bit about yourself (optional)</label>
+        <textarea class="sc-input" rows="3" placeholder="Researcher, writer, student..."></textarea>
+      </div>
+      <button onclick="document.getElementById('ws-confirm').style.display='block'" class="btn btn-teal">Register →</button>
+      <p id="ws-confirm" class="sc-confirm">✓ You're registered! We'll send details closer to the date.</p>
+    </div>
+  </div>
+</section>

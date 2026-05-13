@@ -1,0 +1,63 @@
+---
+title: "The Curious Lab"
+page-layout: full
+toc: false
+---
+
+<div class="sc-page-hero">
+  <p class="sc-eyebrow">The podcast</p>
+  <h1>The Curious Lab</h1>
+  <p>In-depth conversations about science, society, and discovery — no jargon required. New episodes every other week.</p>
+  <div style="display:flex;gap:10px;flex-wrap:wrap;margin-top:20px;">
+    <a href="#" class="btn btn-dark">🎙️ Subscribe on Spotify</a>
+    <a href="#" class="btn btn-outline">Apple Podcasts</a>
+    <a href="#" class="btn btn-outline">RSS feed</a>
+  </div>
+</div>
+
+<div style="max-width:720px;margin:0 auto;padding:0 40px 60px;">
+  <div class="sc-label" style="margin-bottom:20px;">All episodes</div>
+
+  <div class="sc-ep-full">
+    <a href="ep42.qmd" class="sc-play-lg" aria-label="Listen to episode 42">
+      <svg viewBox="0 0 16 16"><path d="M4 2l10 6-10 6V2z"/></svg>
+    </a>
+    <div style="flex:1;">
+      <div class="sc-ep-full-num">Episode 42 · May 5, 2025</div>
+      <div class="sc-ep-full-title"><a href="ep42.qmd" style="color:var(--ink);text-decoration:none;">Can science journalism survive the attention economy?</a></div>
+      <div class="sc-ep-full-desc">With clicks and views driving editorial decisions, are science reporters forced to sensationalise? We talk to three journalists about the pressures they face and how they push back.</div>
+      <div class="sc-ep-full-meta"><span>⏱ 38 min</span><span>🎙 Rosa Vargas, James Tao</span></div>
+    </div>
+  </div>
+
+  <div class="sc-ep-full">
+    <a href="ep41.qmd" class="sc-play-lg" aria-label="Listen to episode 41">
+      <svg viewBox="0 0 16 16"><path d="M4 2l10 6-10 6V2z"/></svg>
+    </a>
+    <div style="flex:1;">
+      <div class="sc-ep-full-num">Episode 41 · Apr 21, 2025</div>
+      <div class="sc-ep-full-title"><a href="ep41.qmd" style="color:var(--ink);text-decoration:none;">How a marine biologist learned to write for everyone</a></div>
+      <div class="sc-ep-full-desc">Dr. Diana Chen spent years writing only for peer review. After a frustrating experience trying to explain her research to her own family, she decided something had to change.</div>
+      <div class="sc-ep-full-meta"><span>⏱ 52 min</span><span>🎙 Diana Chen, Maya Patel</span></div>
+    </div>
+  </div>
+
+  <div class="sc-ep-full">
+    <a href="ep40.qmd" class="sc-play-lg" aria-label="Listen to episode 40">
+      <svg viewBox="0 0 16 16"><path d="M4 2l10 6-10 6V2z"/></svg>
+    </a>
+    <div style="flex:1;">
+      <div class="sc-ep-full-num">Episode 40 · Apr 7, 2025</div>
+      <div class="sc-ep-full-title"><a href="ep40.qmd" style="color:var(--ink);text-decoration:none;">The ethics of science communication in a polarised world</a></div>
+      <div class="sc-ep-full-desc">When the public is divided along political lines, how do communicators share inconvenient truths? A nuanced look at the psychology of persuasion.</div>
+      <div class="sc-ep-full-meta"><span>⏱ 44 min</span><span>🎙 Amir Khan, Sara Lindqvist</span></div>
+    </div>
+  </div>
+
+</div>
+
+<section class="sc-about-strip">
+  <h2>Suggest an episode topic</h2>
+  <p>Have a question you'd love us to explore? A scientist we should interview?</p>
+  <a href="../about/index.qmd#contact" class="btn btn-outline">Get in touch →</a>
+</section>
